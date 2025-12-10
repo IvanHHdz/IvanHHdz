@@ -6,6 +6,6 @@ I’m @IvanHHdz
 
 Someday I'll work at R&D.
 
-> Currently learning Rust, Python and C++
+> Currently learning Rust and Julia
 
-> Future System Engineer and Mathematician
+> Future Computer System Engineer and Mathematician
